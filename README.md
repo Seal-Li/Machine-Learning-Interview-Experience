@@ -1,7 +1,9 @@
 # Machine-Learning-Interview-Experience
 Some key point of machine learning knowledge and experience in interviews, like
 
-# 1. 算法岗面试中的统计学基础
+# 0.常用的SQL语法
+
+# 1.算法岗面试中的统计学基础
 
 # 2.机器学习算法面试中常常涉及的一些问题和解答
 
